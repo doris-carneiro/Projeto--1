@@ -1,2 +1,2 @@
 # Projeto--1
-Calculadora
+Este projeto cria uma calculadora que realiza as operações básicas de matemática.
