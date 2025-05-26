@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#teste comentário linux
+
+echo "Iniciando script"
+
+echo "O diretório atual é $PWD"
+
+python3 calculadora.py
+
+echo "Vou tirar 10 nessa prova"
+
+echo "Finalizando script"
